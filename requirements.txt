@@ -1,0 +1,13 @@
+# Document Extraction
+pymupdf>=1.23.0
+
+# API & Data Validation
+requests>=2.31.0
+pydantic>=2.4.0
+
+# Data Processing & Evaluation
+pandas>=2.1.0
+openpyxl>=3.1.2
+
+# User Interface
+streamlit>=1.27.0
