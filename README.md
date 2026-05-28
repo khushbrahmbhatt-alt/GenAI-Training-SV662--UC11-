@@ -12,7 +12,7 @@ GenAI-Training-SV662--UC11-/
 ├── src/
 │   ├── extractor.py         # PyMuPDF ingestion (Text & Base64 Image routing)
 │   └── engine.py            # Azure OpenAI integration & Pydantic validation
-│
+│   └── schema.py            # Schema json
 ├── ui/
 │   └── app.py               # Streamlit interactive dashboard
 │
